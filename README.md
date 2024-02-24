@@ -1,5 +1,8 @@
 # Credit Risk Analysis
 
-## An Overview of the analysis:
+## An Overview of the Analysis:
 
-The purpose of this analysis is to build a machine learning model that can help predict credit risk. By leveraging historical lending activity data from a peer-to-peer lending services company, we aim to identify the creditworthiness of borrowers. This project entails preprocessing data, splitting it into training and testing sets, and then implementing a logistic regression model to classify the risk associated with the loan status.
+The objective of this analysis is to use Supervised Machine Learning to create a model to evaluate loan risk. We will use a dataset of historical lending activity from a peer-to-peer lending services company to create a model that can pinpoint the creditworthiness of borrowers. This assignment involves Splitting the Data into Training and Testing Sets, Creating a Logistic Regression Model with the Original Data and Writing a Credit Risk Analysis Report.
+
+## The Results:
+
