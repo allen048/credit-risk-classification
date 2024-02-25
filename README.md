@@ -32,6 +32,8 @@ The objective of this analysis is to use Supervised Machine Learning to create a
 	-	(‘0’) Healthy loans: 0.99
   	-	(‘1’) High-Risk loans: 0.99
 
+## Summary
+
 
 
 
