@@ -17,7 +17,7 @@ The objective of this analysis is to use Supervised Machine Learning to create a
   -	(‘1’) High-Risk loans: 0.85
 
 •	Recall Score: This score also ranges from 0 to 1, where 1 indicates perfect recall and 0 indicates no relevant instances are 		identified. Recall is particularly important when the cost of false negatives is high, as in the in case of identifying high-risk 	loans.
-	-	(‘0’) Healthy loans: 0.99
-	-	(‘1’) High-Risk loans: 0.91
+  -	(‘0’) Healthy loans: 0.99
+  -	(‘1’) High-Risk loans: 0.91
 
 
