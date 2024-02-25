@@ -36,6 +36,12 @@ The objective of this analysis is to use Supervised Machine Learning to create a
 
 After this analysis, this logistic regression model would be a suitable prototype for determining creditworthiness for borrowers. It examine the testing and training sets provided to create and provide the results needed to review and confirm the dataset for this study. I was able to build a model based on this dataset using Supervised Machine Learning which proved to be sufficient.
 
+• Module 20 Challenge Citations:
+
+Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61916?module_item_id=1077449
+
+'Title:<Crypto_Clustering.ipynb> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/CryptoClustering/blob/main/Crypto_Clustering.ipynb
+
 
 
 
