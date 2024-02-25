@@ -6,3 +6,5 @@ The objective of this analysis is to use Supervised Machine Learning to create a
 
 ## The Results:
 
+### Split the Data into Training and Testing Sets
+
