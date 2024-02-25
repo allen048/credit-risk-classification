@@ -14,13 +14,10 @@ The objective of this analysis is to use Supervised Machine Learning to create a
   indicates no positive predictions are 
 	correct.
   -	(‘0’) Healthy loans: 1.00
-  -	(‘1’) High-Risk loans: 0.85 
+  -	(‘1’) High-Risk loans: 0.85
 
-
-
-Accuracy Score: The model with the original data has an accuracy score of 99%, indicating the overall correctness of the model across both classes.
-Precision Score:
-For healthy loans (0): 1.00 (indicating no false positives for healthy loans)
-For high-risk loans (1): 0.84 (indicating a low rate of false positives for high-risk loans)
+•	Recall Score: This score also ranges from 0 to 1, where 1 indicates perfect recall and 0 indicates no relevant instances are 		identified. Recall is particularly important when the cost of false negatives is high, as in the in case of identifying high-risk 	loans.
+	-	(‘0’) Healthy loans: 0.99
+	-	(‘1’) High-Risk loans: 0.91
 
 
