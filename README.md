@@ -26,7 +26,7 @@ The objective of this analysis is to use Supervised Machine Learning to create a
 
 •	Precision Score:
 	-	(‘0’) Healthy loans: 1.00
-  	-	(‘1’) High-Risk loans: 0.84
+	-	(‘1’) High-Risk loans: 0.84
 
 •	Recall Score:
 	-	(‘0’) Healthy loans: 0.99
