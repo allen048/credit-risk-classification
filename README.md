@@ -14,7 +14,7 @@ The objective of this analysis is to use Supervised Machine Learning to create a
   indicates no positive predictions are 
 	correct.
   -	(‘0’) Healthy loans: 1.00
-  -	(‘1’) High-Risk loans: 0.85
+  -	(‘1’) High-Risk loans: 0.85 
 
 
 
