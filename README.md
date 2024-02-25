@@ -32,7 +32,9 @@ The objective of this analysis is to use Supervised Machine Learning to create a
 	-	(‘0’) Healthy loans: 0.99
   	-	(‘1’) High-Risk loans: 0.99
 
-## Summary
+## Summary:
+
+After this analysis, this logistic regression model would be a suitable prototype for determining creditworthiness for borrowers. It examine the testing and training sets provided to create and provide the results needed to review and confirm the dataset for this study. I was able to build a model based on this dataset using Supervised Machine Learning which proved to be sufficient.
 
 
 
