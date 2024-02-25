@@ -8,7 +8,15 @@ The objective of this analysis is to use Supervised Machine Learning to create a
 
 ### Split the Data into Training and Testing Sets
 
-•	Accuracy Score:
+•	Accuracy Score: This machine learning model produces an accuracy score of 99% for the training and testing sets. This displays an absolute   percentage for this model.
+
+•	Precision Score: This score ranges from 0 to 1, where 1 indicates perfect precision (all positive predictions are correct), and 0     
+  indicates no positive predictions are 
+	correct.
+  -	(‘0’) Healthy loans: 1.00
+  -	(‘1’) High-Risk loans: 0.85
+
+
 
 Accuracy Score: The model with the original data has an accuracy score of 99%, indicating the overall correctness of the model across both classes.
 Precision Score:
