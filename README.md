@@ -40,7 +40,7 @@ After this analysis, this logistic regression model would be a suitable prototyp
 
 Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61916?module_item_id=1077449
 
-'Title:<Crypto_Clustering.ipynb> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/CryptoClustering/blob/main/Crypto_Clustering.ipynb
+'Title:<credit-risk-classification.ipynb> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/CryptoClustering/blob/main/Crypto_Clustering.ipynb
 
 
 
