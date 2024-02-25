@@ -40,8 +40,9 @@ After this analysis, this logistic regression model would be a suitable prototyp
 
 Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61916?module_item_id=1077449
 
-'Title:<credit-risk-classification.ipynb> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/CryptoClustering/blob/main/Crypto_Clustering.ipynb
+'Title:<credit-risk-classification.ipynb> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/credit-risk-classification/blob/main/credit_risk_classification.ipynb
 
+OpenAI. (2024). ChatGPT (Feb 2024 versions) [Large language model]. https://chat.openai.com/chat
 
 
 
