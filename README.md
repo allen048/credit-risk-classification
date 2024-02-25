@@ -20,4 +20,21 @@ The objective of this analysis is to use Supervised Machine Learning to create a
   -	(‘0’) Healthy loans: 0.99
   -	(‘1’) High-Risk loans: 0.91
 
+### Create a Logistic Regression Model with the Original Data
+
+•	Accuracy Score: This machine learning model produces an accuracy score of 99% for the logistic regression model. This displays an absolute percentage for this model.
+
+•	Precision Score:
+	-	(‘0’) Healthy loans: 1.00
+  	-	(‘1’) High-Risk loans: 0.84
+
+•	Recall Score:
+	-	(‘0’) Healthy loans: 0.99
+  	-	(‘1’) High-Risk loans: 0.99
+
+
+
+
+
+
 
